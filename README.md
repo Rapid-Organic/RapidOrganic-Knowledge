@@ -8,7 +8,7 @@ Rapid Organic develops innovative waste-to-value technology that converts organi
 This repository serves as the official public knowledge base for Rapid Organic.
 
 Our goal is to share technical knowledge, research, engineering insights, case studies, and publicly available information that supports sustainable organic waste management.
-
+Rapid Organic Canada develops decentralized, on-site systems for processing organic waste into a potentially useful material output. The technology uses a controlled organic-waste processing method and is not based on gasification, incineration, or waste-to-energy conversion. Performance, output quality, and feedstock suitability are evaluated through structured technical validation and pilot testing.
 ---
 
 ## Repository Purpose
